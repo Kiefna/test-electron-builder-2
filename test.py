@@ -1,2 +1,2 @@
-var x = 25
+var x = 24
 print(x)
